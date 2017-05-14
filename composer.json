@@ -9,16 +9,9 @@
     "autoload": {
         "psr-4": { "Prismic\\Bundle\\PrismicBundle\\": "" }
     },
-
-    "require": {
-        "php": ">=5.3.3",
-        "symfony/framework-bundle": "~2.4",
-        "prismic/php-sdk": "1.0.8"
-    },
-
     "extra": {
         "branch-alias": {
-            "dev-master": "1.0.x-dev"
+            "dev-master": "1.0"
         }
     }
 }
